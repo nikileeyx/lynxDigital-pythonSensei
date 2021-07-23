@@ -10,4 +10,4 @@ print(movie)
 
 for i in range(2):
     movie = random.choice(movies_list)
-    print(movie)
+    print(movie
