@@ -4,7 +4,8 @@ movies_list = ['The Godfather', 'The Wizard of Oz', 'Citizen Kane', 'The Shawsha
 
 # pick a random choice from a list of strings.
 movie = random.choice(movies_list)
-print(movie)
+print(movie
+      
 # Output 'The Shawshank Redemption'
 
 
