@@ -9,7 +9,6 @@ print(movie
       
 # Output 'The Shawshank Redemption'
 
-
 for i in range(2):
     movie = random.choice(movies_list)
     print(movie)
